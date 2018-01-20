@@ -399,7 +399,7 @@ public class drawGUI extends Frame implements ActionListener, ItemListener, Mous
 		
 		else 
 		{ 
-			System.exit(0);
+			System.exit(0); //exiting the system
 		}
 	}
 }
